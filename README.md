@@ -16,7 +16,7 @@ Application MERN de gestion de taches avec authentification JWT, MongoDB, dashbo
 Depuis le dossier du projet :
 
 ```powershell
-cd "C:\Users\Hicha\OneDrive\Bureau\TaskFlow"
+cd "C:\Users\Session\Bureau\TaskFlow"
 ```
 
 Installer le backend :
@@ -40,14 +40,14 @@ Ouvrir deux terminaux.
 Terminal 1, backend :
 
 ```powershell
-cd "C:\Users\Hicha\OneDrive\Bureau\TaskFlow\backend"
+cd "C:\Users\Session\Bureau\TaskFlow\backend"
 npm run dev
 ```
 
 Terminal 2, frontend :
 
 ```powershell
-cd "C:\Users\Hicha\OneDrive\Bureau\TaskFlow\frontend"
+cd "C:\Users\Session\Bureau\TaskFlow\frontend"
 npm start
 ```
 
